@@ -1,5 +1,5 @@
 const NUMS_OF_USERS = 7
-const NUMS_OF_POKEMON = 949
+const NUMS_OF_POKEMON = 100
 
 class APIManager {
     tempData = {}
